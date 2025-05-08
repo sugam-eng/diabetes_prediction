@@ -5,6 +5,6 @@ This project uses machine learning to predict whether a patient is likely to hav
 - The dataset used is from the Pima Indians Diabetes Database. You can find similar datasets on Kaggle.
 
 ## 💡 Overview
--Used Support Vector Machine to build a binary classification model.
--Applied preprocessing techniques such as handling missing values and feature scaling.
--Evaluated the model using accuracy, classification report, and confusion matrix.
+- Used Support Vector Machine to build a binary classification model.
+- Applied preprocessing techniques such as handling missing values and feature scaling.
+- Evaluated the model using accuracy, classification report, and confusion matrix.
